@@ -12,4 +12,4 @@ Clone the repository<br>
 
 Open Jupyter notebook terminal and open birth_weight_prediction.ipynb
 
-Locate the dataset file location correctly.
+Locate the dataset(birthweight_low.xlsx) file location correctly in birth_weight_prediction.ipynb (line 9).
